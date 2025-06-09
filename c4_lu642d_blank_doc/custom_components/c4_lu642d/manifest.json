@@ -1,0 +1,12 @@
+{
+  "domain": "c4_lu642d",
+  "name": "C4-LU642D HDMI Matrix",
+  "version": "1.0",
+  "requirements": [],
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "/local/c4_lu642d/documentation.html",
+  "iot_class": "local_polling"
+,
+  "author": "timcloud"
+}
